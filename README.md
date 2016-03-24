@@ -5,42 +5,42 @@ Flask is write in Python and HTML
 
 1) You'll need to install python
 
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install python-pip
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install python-pip
 
 2) Now use pip to install Flask by typing
 
-sudo pip install flask
+$ sudo pip install flask
 
 3) Terminal window and create a new folder called "webserver" by typing
 
-mkdir webserver
+$ mkdir webserver
 
 "This directory by using the cd command and pressing Enter"
 
-cd webserver
+$ cd webserver
 
 "Create a new file called flask-test.py"
 
-nano flask-test.py
+$ nano flask-test.py
 
 "Copy and paste the following script to your BBB"
 
 4) Create a new folder called templates
 
-mkdir templates
-cd templates
+$ mkdir templates
+$ cd templates
  
 "Create a new file called click.html"
 
-nano click.html
+$ nano click.html
 
 "Copy and paste the following script to your BBB"
 
 5) Then run the following command
 
-python flask-test.py
+$ python flask-test.py
 
-
+-------------------------END----------------------
 
