@@ -7,6 +7,7 @@ Flask is write in Python and HTML
 
 $ sudo apt-get update
 $ sudo apt-get upgrade
+
 $ sudo apt-get install python-pip
 
 2) Now use pip to install Flask by typing
