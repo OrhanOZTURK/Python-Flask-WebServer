@@ -47,7 +47,7 @@ $ python flask-test.py
 
         REFERENCE
 
-Code samples are taken from this site
+The code example are taken from this site
 
 https://innovativetechspace.wordpress.com/2015/01/18/status-change-of-beaglebone-black-gpio-pin-through-python-flask-server-and-web-sockets/
 
