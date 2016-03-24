@@ -44,5 +44,16 @@ $ nano click.html
 
 $ python flask-test.py
 
+
+        REFERENCE
+
+Code samples are taken from this site
+
+https://innovativetechspace.wordpress.com/2015/01/18/status-change-of-beaglebone-black-gpio-pin-through-python-flask-server-and-web-sockets/
+
+Reference Otherwise
+
+https://www.raspberrypi.org/learning/python-web-server-with-flask/
+
 -------------------------END----------------------
 
