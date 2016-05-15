@@ -1,4 +1,4 @@
-# webserve
+# webserver
 Flask is write in Python and HTML for BeagleBone Black
 
 “You are using Debian ”
