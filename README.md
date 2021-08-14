@@ -18,7 +18,7 @@
 
   ``` $ mkdir webserver ```
 
-> "his directory by using the cd command and pressing Enter
+> "The directory by using the cd command and pressing Enter
 
   ``` $ cd webserver```
 
